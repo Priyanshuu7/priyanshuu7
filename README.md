@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Rajak</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshuu7&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshuu7" /> </p>
 
-- 🔭 I’m currently working on [YelpCamp](https://github.com/Priyanshuu7/YelpCamp)
+- 🔭 I’m currently working on [ReactTodoList](https://github.com/Priyanshuu7/ReactTodoList)
 
 - 🌱 I’m currently learning **ReactJS**
 
