@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Rajak</h1>
 - 🔭 I’m currently working on [UrlShortner](https://github.com/Priyanshuu7/UrlShortner.git)
 
-- 🌱 I’m currently learning **Ngnix**
+- 🌱 I’m currently learning **Nginx**
 
 - 💬 Ask me about **React.js js node.js**
 
