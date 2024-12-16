@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Rajak</h1>
 - 🔭 I’m currently working on [DecentralisedFiver](https://github.com/Priyanshuu7/DecentralisedFiver.git)
 
-- 🌱 I’m currently learning **GraphQl**
+- 🌱 I’m currently learning **GraphQL**
 
 - 💬 Ask me about **React.js js node.js**
 
