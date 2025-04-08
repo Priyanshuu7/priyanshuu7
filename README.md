@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **rajakpriyanshu581@gmail.com**
 
-- ⚡ Fun fact **I think i'm funnyy**
+- **I think i'm funnyy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
