@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Priyanshu Rajak</h1>
-- 🔭 I’m currently working on [Labelify](https://github.com/Priyanshuu7/Labelify)
+- 🔭 I’m currently working on [Labelify](https://github.com/Priyanshuu7/SaasApp.git)
 
 - 🌱 I’m currently learning **GraphQL**
 
-- 💬 Ask me about **React.js js node.js**
+- 💬 Ask me about **Next.Js Node.js Typescript**
 
 - 📫 How to reach me **rajakpriyanshu581@gmail.com**
 
