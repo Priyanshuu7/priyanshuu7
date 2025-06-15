@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Priyanshu Rajak</h1>
-- 🔭 I’m currently working on [Labelify](https://github.com/Priyanshuu7/SaasApp.git)
+- 🔭 I’m currently working on [Snippychat](https://github.com/Priyanshuu7/Snippychat)
 
 - 🌱 I’m currently learning **Redis**
 
