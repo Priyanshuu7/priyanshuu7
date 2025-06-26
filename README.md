@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Priyanshu Rajak</h1>
 
-- 🌱 I’m currently learning **Redis**
+- 🌱 I’m currently learning **Go**
 
 - 💬 Ask me about **Next.Js Node.js Typescript**
 
